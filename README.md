@@ -1,6 +1,6 @@
 
 <!-- 个人简介-->
-<div align="center" style="padding:0 auto;line-height:1.0;height:50px;"><a href="https://github.com/Eilo-Dit"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人最大的失败，就是失去自我;强大可以凭借，弱小也可以利用;千磨万击心铸铁，殚精竭虑铸一剑&center=true&size=27" style="width: 80%; max-width: 600px;"> </a> </div>
+<div align="center" ><a href="https://github.com/Eilo-Dit"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人最大的失败，就是失去自我;强大可以凭借，弱小也可以利用;千磨万击心铸铁，殚精竭虑铸一剑&center=true&size=27" style="width: 80%;height:60%; max-width: 600px;"> </a> </div>
 <h3 align="center" style="margin: 5px 0;">A young full stack engineer from Changsha, China</h3>
 <!-- 修仙 -->
 <div align="center">
