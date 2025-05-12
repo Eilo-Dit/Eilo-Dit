@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![bilibili](https://stats.justsong.cn/api/bilibili?username=287423559&cn=true)
+![bilibili](https://stats.justsong.cn/api/bilibili?id=287423559&cn=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Eilo-Dit)
 
