@@ -2,22 +2,18 @@
 <!-- 个人简介-->
 <div align="center"><a href="https://github.com/Eilo-Dit"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人最大的失败，就是失去自我;强大可以凭借，弱小也可以利用;人只有在不断的斗争中，才能感觉到生的光彩&center=true&size=27"> </a> </div>
 <h4 align="center">A young full stack engineer from Changsha, China</h4>
----
 <!-- 修仙 -->
-<div>
+<div align="center">
 	<img  src="https://github-immortality.vercel.app/api?username=Eilo-Dit" /><br>
 </div>
----
----
+
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=Eilo-Dit&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 </div>
----
+
 
 <!-- <div align="center"> <img src="https://metrics.lecoq.io/Eilo-Dit?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
-
----
 
 ### About My Github
 <div align="center">
@@ -42,5 +38,3 @@
     </tr>
   </table>
 </div>
-
----
