@@ -1,10 +1,8 @@
-## Hi there 👋
+##![visitors](https://visitor-badge.glitch.me/badge?page_id=Eilo-Dit.visitor-badge&left_color=green&right_color=red)
 
 ![bilibili](https://stats.justsong.cn/api/bilibili?id=287423559&cn=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Eilo-Dit)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Eilo-Dit&left_color=green&right_color=red)
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Eilo-Dit)
 
