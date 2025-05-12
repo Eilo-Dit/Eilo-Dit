@@ -1,4 +1,4 @@
-##![visitors](https://visitor-badge.glitch.me/badge?page_id=Eilo-Dit.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Eilo-Dit.Eilo-Dit&left_color=green&right_color=red)
 
 ![bilibili](https://stats.justsong.cn/api/bilibili?id=287423559&cn=true)
 
