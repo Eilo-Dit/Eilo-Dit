@@ -1,11 +1,13 @@
 
 <!-- 个人简介-->
 <div align="center"><a href="https://github.com/Eilo-Dit"> <img src="https://readme-typing-svg.herokuapp.com/?lines=人最大的失败，就是失去自我;强大可以凭借，弱小也可以利用;人只有在不断的斗争中，才能感觉到生的光彩&center=true&size=27"> </a> </div>
-<h3 align="center">A young full stack engineer from Changsha, China</h3>
-
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Eilo-Dit)
-
-
+<h4 align="center">A young full stack engineer from Changsha, China</h4>
+---
+<!-- 修仙 -->
+<div>
+	<img  src="https://github-immortality.vercel.app/api?username=Eilo-Dit" /><br>
+</div>
+---
 ---
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
